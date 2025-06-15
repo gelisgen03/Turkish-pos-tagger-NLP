@@ -1,0 +1,1639 @@
+# sent_id = 1
+# text = Ben sessizce kütüphanede kitap okuyorum .
+1	Ben	_	PRON	_	_	0	root	_	_
+2	sessizce	_	ADV	_	_	0	root	_	_
+3	kütüphanede	_	NOUN	_	_	0	root	_	_
+4	kitap	_	NOUN	_	_	0	root	_	_
+5	okuyorum	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 2
+# text = Ali renkli bir resim çizdi .
+1	Ali	_	PROPN	_	_	0	root	_	_
+2	renkli	_	ADJ	_	_	0	root	_	_
+3	bir	_	NUM	_	_	0	root	_	_
+4	resim	_	NOUN	_	_	0	root	_	_
+5	çizdi	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 3
+# text = Ayşe okula koşarak gitti .
+1	Ayşe	_	PROPN	_	_	0	root	_	_
+2	okula	_	NOUN	_	_	0	root	_	_
+3	koşarak	_	ADV	_	_	0	root	_	_
+4	gitti	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 4
+# text = Çocuk tatlı bir elma yedi .
+1	Çocuk	_	NOUN	_	_	0	root	_	_
+2	tatlı	_	ADJ	_	_	0	root	_	_
+3	bir	_	NUM	_	_	0	root	_	_
+4	elma	_	NOUN	_	_	0	root	_	_
+5	yedi	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 5
+# text = Biz akşam beraber film izledik .
+1	Biz	_	PRON	_	_	0	root	_	_
+2	akşam	_	NOUN	_	_	0	root	_	_
+3	beraber	_	ADV	_	_	0	root	_	_
+4	film	_	NOUN	_	_	0	root	_	_
+5	izledik	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 6
+# text = O uzun bir mektubu gönderdi .
+1	O	_	PRON	_	_	0	root	_	_
+2	uzun	_	ADJ	_	_	0	root	_	_
+3	bir	_	NUM	_	_	0	root	_	_
+4	mektubu	_	NOUN	_	_	0	root	_	_
+5	gönderdi	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 7
+# text = Annem lezzetli yemekler pişirdi .
+1	Annem	_	PROPN	_	_	0	root	_	_
+2	lezzetli	_	ADJ	_	_	0	root	_	_
+3	yemekler	_	NOUN	_	_	0	root	_	_
+4	pişirdi	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 8
+# text = Babam yeni arabayı kullandı .
+1	Babam	_	PROPN	_	_	0	root	_	_
+2	yeni	_	ADJ	_	_	0	root	_	_
+3	arabayı	_	NOUN	_	_	0	root	_	_
+4	kullandı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 9
+# text = Köpek bahçede neşeyle oynuyor .
+1	Köpek	_	NOUN	_	_	0	root	_	_
+2	bahçede	_	NOUN	_	_	0	root	_	_
+3	neşeyle	_	ADV	_	_	0	root	_	_
+4	oynuyor	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 10
+# text = Ben güzel bir şarkı söyledim .
+1	Ben	_	PRON	_	_	0	root	_	_
+2	güzel	_	ADJ	_	_	0	root	_	_
+3	bir	_	NUM	_	_	0	root	_	_
+4	şarkı	_	NOUN	_	_	0	root	_	_
+5	söyledim	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 11
+# text = Sen oldukça iyi konuştun .
+1	Sen	_	PRON	_	_	0	root	_	_
+2	oldukça	_	ADV	_	_	0	root	_	_
+3	iyi	_	ADJ	_	_	0	root	_	_
+4	konuştun	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 12
+# text = Biz grup halinde çalıştık .
+1	Biz	_	PRON	_	_	0	root	_	_
+2	grup	_	NOUN	_	_	0	root	_	_
+3	halinde	_	ADP	_	_	0	root	_	_
+4	çalıştık	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 13
+# text = Kardeşim ahşap bir masa yaptı .
+1	Kardeşim	_	NOUN	_	_	0	root	_	_
+2	ahşap	_	ADJ	_	_	0	root	_	_
+3	bir	_	NUM	_	_	0	root	_	_
+4	masa	_	NOUN	_	_	0	root	_	_
+5	yaptı	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 14
+# text = Ali ile Ayşe sinemaya gitti .
+1	Ali	_	PROPN	_	_	0	root	_	_
+2	ile	_	ADP	_	_	0	root	_	_
+3	Ayşe	_	PROPN	_	_	0	root	_	_
+4	sinemaya	_	NOUN	_	_	0	root	_	_
+5	gitti	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 15
+# text = Ben her sabah yürüyüş yaparım .
+1	Ben	_	PRON	_	_	0	root	_	_
+2	her	_	DET	_	_	0	root	_	_
+3	sabah	_	NOUN	_	_	0	root	_	_
+4	yürüyüş	_	NOUN	_	_	0	root	_	_
+5	yaparım	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 16
+# text = O çok başarılı bir öğrenci .
+1	O	_	PRON	_	_	0	root	_	_
+2	çok	_	ADV	_	_	0	root	_	_
+3	başarılı	_	ADJ	_	_	0	root	_	_
+4	bir	_	NUM	_	_	0	root	_	_
+5	öğrenci	_	NOUN	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 17
+# text = Kütüphane sessiz bir çalışma alanı olmalı .
+1	Kütüphane	_	NOUN	_	_	0	root	_	_
+2	sessiz	_	ADJ	_	_	0	root	_	_
+3	bir	_	NUM	_	_	0	root	_	_
+4	çalışma	_	NOUN	_	_	0	root	_	_
+5	alanı	_	NOUN	_	_	0	root	_	_
+6	olmalı	_	AUX	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 18
+# text = Yarın hava açık olacak .
+1	Yarın	_	NOUN	_	_	0	root	_	_
+2	hava	_	NOUN	_	_	0	root	_	_
+3	açık	_	ADJ	_	_	0	root	_	_
+4	olacak	_	AUX	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 19
+# text = Gelemem çünkü hastayım .
+1	Gelemem	_	VERB	_	_	0	root	_	_
+2	çünkü	_	SCONJ	_	_	0	root	_	_
+3	hastayım	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 20
+# text = Sınav zordu ama başardım .
+1	Sınav	_	NOUN	_	_	0	root	_	_
+2	zordu	_	ADJ	_	_	0	root	_	_
+3	ama	_	CONJ	_	_	0	root	_	_
+4	başardım	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 21
+# text = Telefon salonda çaldı .
+1	Telefon	_	NOUN	_	_	0	root	_	_
+2	salonda	_	NOUN	_	_	0	root	_	_
+3	çaldı	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 22
+# text = Çocuklar bahçede koşarak oynadı .
+1	Çocuklar	_	NOUN	_	_	0	root	_	_
+2	bahçede	_	NOUN	_	_	0	root	_	_
+3	koşarak	_	ADV	_	_	0	root	_	_
+4	oynadı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 23
+# text = Sabah erken kalktım .
+1	Sabah	_	NOUN	_	_	0	root	_	_
+2	erken	_	ADV	_	_	0	root	_	_
+3	kalktım	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 24
+# text = Eyvah anahtarı evde unuttum .
+1	Eyvah	_	INTJ	_	_	0	root	_	_
+2	anahtarı	_	NOUN	_	_	0	root	_	_
+3	evde	_	NOUN	_	_	0	root	_	_
+4	unuttum	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 25
+# text = Ben bu ödevi bitirdim .
+1	Ben	_	PRON	_	_	0	root	_	_
+2	bu	_	DET	_	_	0	root	_	_
+3	ödevi	_	NOUN	_	_	0	root	_	_
+4	bitirdim	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 26
+# text = Onlar alışveriş merkezine gitti .
+1	Onlar	_	PRON	_	_	0	root	_	_
+2	alışveriş	_	NOUN	_	_	0	root	_	_
+3	merkezine	_	NOUN	_	_	0	root	_	_
+4	gitti	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 27
+# text = Dün çok yorgundum .
+1	Dün	_	NOUN	_	_	0	root	_	_
+2	çok	_	ADV	_	_	0	root	_	_
+3	yorgundum	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 28
+# text = Kalem masanın üzerinde duruyor .
+1	Kalem	_	NOUN	_	_	0	root	_	_
+2	masanın	_	NOUN	_	_	0	root	_	_
+3	üzerinde	_	ADP	_	_	0	root	_	_
+4	duruyor	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 29
+# text = Ben sabah bir fincan kahve içtim .
+1	Ben	_	PRON	_	_	0	root	_	_
+2	sabah	_	NOUN	_	_	0	root	_	_
+3	bir	_	NUM	_	_	0	root	_	_
+4	fincan	_	NOUN	_	_	0	root	_	_
+5	kahve	_	NOUN	_	_	0	root	_	_
+6	içtim	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 30
+# text = Sen neden gelmedin ?
+1	Sen	_	PRON	_	_	0	root	_	_
+2	neden	_	ADV	_	_	0	root	_	_
+3	gelmedin	_	VERB	_	_	0	root	_	_
+4	?	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 31
+# text = Çünkü toplantım vardı .
+1	Çünkü	_	SCONJ	_	_	0	root	_	_
+2	toplantım	_	NOUN	_	_	0	root	_	_
+3	vardı	_	AUX	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 32
+# text = Kitaplar raflarda düzenli şekilde dizilmişti .
+1	Kitaplar	_	NOUN	_	_	0	root	_	_
+2	raflarda	_	NOUN	_	_	0	root	_	_
+3	düzenli	_	ADJ	_	_	0	root	_	_
+4	şekilde	_	ADV	_	_	0	root	_	_
+5	dizilmişti	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 33
+# text = Ben çalışırken müzik dinlerim .
+1	Ben	_	PRON	_	_	0	root	_	_
+2	çalışırken	_	SCONJ	_	_	0	root	_	_
+3	müzik	_	NOUN	_	_	0	root	_	_
+4	dinlerim	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 34
+# text = Dışarıda şiddetli yağmur yağıyor .
+1	Dışarıda	_	ADV	_	_	0	root	_	_
+2	şiddetli	_	ADJ	_	_	0	root	_	_
+3	yağmur	_	NOUN	_	_	0	root	_	_
+4	yağıyor	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 35
+# text = Üç elma ve iki armut aldım .
+1	Üç	_	NUM	_	_	0	root	_	_
+2	elma	_	NOUN	_	_	0	root	_	_
+3	ve	_	CONJ	_	_	0	root	_	_
+4	iki	_	NUM	_	_	0	root	_	_
+5	armut	_	NOUN	_	_	0	root	_	_
+6	aldım	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 36
+# text = Eşyaları arabayla taşıdık .
+1	Eşyaları	_	NOUN	_	_	0	root	_	_
+2	arabayla	_	NOUN	_	_	0	root	_	_
+3	taşıdık	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 37
+# text = Bu soru o kadar zor değil .
+1	Bu	_	DET	_	_	0	root	_	_
+2	soru	_	NOUN	_	_	0	root	_	_
+3	o	_	PRON	_	_	0	root	_	_
+4	kadar	_	ADV	_	_	0	root	_	_
+5	zor	_	ADJ	_	_	0	root	_	_
+6	değil	_	AUX	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 38
+# text = Okul bugün erken başladı .
+1	Okul	_	NOUN	_	_	0	root	_	_
+2	bugün	_	NOUN	_	_	0	root	_	_
+3	erken	_	ADV	_	_	0	root	_	_
+4	başladı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 39
+# text = Ben defteri masaya bıraktım .
+1	Ben	_	PRON	_	_	0	root	_	_
+2	defteri	_	NOUN	_	_	0	root	_	_
+3	masaya	_	NOUN	_	_	0	root	_	_
+4	bıraktım	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 40
+# text = O televizyonu uzaktan açtı .
+1	O	_	PRON	_	_	0	root	_	_
+2	televizyonu	_	NOUN	_	_	0	root	_	_
+3	uzaktan	_	ADV	_	_	0	root	_	_
+4	açtı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 41
+# text = Ali okula gitti .
+1	Ali	_	PROPN	_	_	0	root	_	_
+2	okula	_	X	_	_	0	root	_	_
+3	gitti	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 42
+# text = Ayşe kitap okuyor .
+1	Ayşe	_	PROPN	_	_	0	root	_	_
+2	kitap	_	X	_	_	0	root	_	_
+3	okuyor	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 43
+# text = Ben bugün çok yoruldum .
+1	Ben	_	PRON	_	_	0	root	_	_
+2	bugün	_	ADV	_	_	0	root	_	_
+3	çok	_	ADV	_	_	0	root	_	_
+4	yoruldum	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 44
+# text = Öğrenciler bahçede oynadı .
+1	Öğrenciler	_	NOUN	_	_	0	root	_	_
+2	bahçede	_	X	_	_	0	root	_	_
+3	oynadı	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 45
+# text = Babam yemek yapıyor .
+1	Babam	_	NOUN	_	_	0	root	_	_
+2	yemek	_	X	_	_	0	root	_	_
+3	yapıyor	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 46
+# text = Çocuk sessizce çalıştı .
+1	Çocuk	_	NOUN	_	_	0	root	_	_
+2	sessizce	_	X	_	_	0	root	_	_
+3	çalıştı	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 47
+# text = Annem bana hediye aldı .
+1	Annem	_	NOUN	_	_	0	root	_	_
+2	bana	_	PRON	_	_	0	root	_	_
+3	hediye	_	X	_	_	0	root	_	_
+4	aldı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 48
+# text = Kalem masanın üzerinde duruyor .
+1	Kalem	_	NOUN	_	_	0	root	_	_
+2	masanın	_	NOUN	_	_	0	root	_	_
+3	üzerinde	_	ADP	_	_	0	root	_	_
+4	duruyor	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 49
+# text = Köpek bahçede havladı .
+1	Köpek	_	NOUN	_	_	0	root	_	_
+2	bahçede	_	X	_	_	0	root	_	_
+3	havladı	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 50
+# text = Kardeşim televizyon izliyor .
+1	Kardeşim	_	NOUN	_	_	0	root	_	_
+2	televizyon	_	X	_	_	0	root	_	_
+3	izliyor	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 51
+# text = Sınav çok zor geçti .
+1	Sınav	_	NOUN	_	_	0	root	_	_
+2	çok	_	ADV	_	_	0	root	_	_
+3	zor	_	X	_	_	0	root	_	_
+4	geçti	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 52
+# text = Biz sinema biletlerini aldık .
+1	Biz	_	PRON	_	_	0	root	_	_
+2	sinema	_	X	_	_	0	root	_	_
+3	biletlerini	_	X	_	_	0	root	_	_
+4	aldık	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 53
+# text = Sen neden geç geldin ?
+1	Sen	_	PRON	_	_	0	root	_	_
+2	neden	_	ADV	_	_	0	root	_	_
+3	geç	_	X	_	_	0	root	_	_
+4	geldin	_	VERB	_	_	0	root	_	_
+5	?	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 54
+# text = Araba ani bir fren yaptı .
+1	Araba	_	NOUN	_	_	0	root	_	_
+2	ani	_	ADJ	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	fren	_	X	_	_	0	root	_	_
+5	yaptı	_	X	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 55
+# text = Dün çok kitap okudum .
+1	Dün	_	NOUN	_	_	0	root	_	_
+2	çok	_	ADV	_	_	0	root	_	_
+3	kitap	_	X	_	_	0	root	_	_
+4	okudum	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 56
+# text = Kütüphane sessizdi .
+1	Kütüphane	_	NOUN	_	_	0	root	_	_
+2	sessizdi	_	X	_	_	0	root	_	_
+3	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 57
+# text = Yağmur bütün gün yağdı .
+1	Yağmur	_	NOUN	_	_	0	root	_	_
+2	bütün	_	X	_	_	0	root	_	_
+3	gün	_	X	_	_	0	root	_	_
+4	yağdı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 58
+# text = Telefon çalıyor .
+1	Telefon	_	NOUN	_	_	0	root	_	_
+2	çalıyor	_	VERB	_	_	0	root	_	_
+3	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 59
+# text = Sınıfta hiç kimse yoktu .
+1	Sınıfta	_	NOUN	_	_	0	root	_	_
+2	hiç	_	X	_	_	0	root	_	_
+3	kimse	_	X	_	_	0	root	_	_
+4	yoktu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 60
+# text = O bana yardım etti .
+1	O	_	PRON	_	_	0	root	_	_
+2	bana	_	PRON	_	_	0	root	_	_
+3	yardım	_	X	_	_	0	root	_	_
+4	etti	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 61
+# text = Pencereden dışarı baktım .
+1	Pencereden	_	NOUN	_	_	0	root	_	_
+2	dışarı	_	X	_	_	0	root	_	_
+3	baktım	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 62
+# text = Kedi koltuğun üzerinde uyuyordu .
+1	Kedi	_	NOUN	_	_	0	root	_	_
+2	koltuğun	_	X	_	_	0	root	_	_
+3	üzerinde	_	ADP	_	_	0	root	_	_
+4	uyuyordu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 63
+# text = Elma çok tatlıydı .
+1	Elma	_	NOUN	_	_	0	root	_	_
+2	çok	_	ADV	_	_	0	root	_	_
+3	tatlıydı	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 64
+# text = Yolda bir köpek gördüm .
+1	Yolda	_	NOUN	_	_	0	root	_	_
+2	bir	_	DET	_	_	0	root	_	_
+3	köpek	_	X	_	_	0	root	_	_
+4	gördüm	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 65
+# text = Saat sekiz olmuş .
+1	Saat	_	NOUN	_	_	0	root	_	_
+2	sekiz	_	X	_	_	0	root	_	_
+3	olmuş	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 66
+# text = Onlar okula geç geldi .
+1	Onlar	_	PRON	_	_	0	root	_	_
+2	okula	_	X	_	_	0	root	_	_
+3	geç	_	X	_	_	0	root	_	_
+4	geldi	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 67
+# text = Sabah erken kalktım .
+1	Sabah	_	NOUN	_	_	0	root	_	_
+2	erken	_	ADV	_	_	0	root	_	_
+3	kalktım	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 68
+# text = Kütüphane yeni kitaplar aldı .
+1	Kütüphane	_	NOUN	_	_	0	root	_	_
+2	yeni	_	X	_	_	0	root	_	_
+3	kitaplar	_	X	_	_	0	root	_	_
+4	aldı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 69
+# text = Bilgisayar bozuldu .
+1	Bilgisayar	_	NOUN	_	_	0	root	_	_
+2	bozuldu	_	VERB	_	_	0	root	_	_
+3	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 70
+# text = Bakkaldan ekmek aldım .
+1	Bakkaldan	_	NOUN	_	_	0	root	_	_
+2	ekmek	_	X	_	_	0	root	_	_
+3	aldım	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 71
+# text = Kapıyı biri çalıyor .
+1	Kapıyı	_	NOUN	_	_	0	root	_	_
+2	biri	_	PRON	_	_	0	root	_	_
+3	çalıyor	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 72
+# text = Defterimi çantama koydum .
+1	Defterimi	_	NOUN	_	_	0	root	_	_
+2	çantama	_	X	_	_	0	root	_	_
+3	koydum	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 73
+# text = Ev çok güzeldi .
+1	Ev	_	NOUN	_	_	0	root	_	_
+2	çok	_	ADV	_	_	0	root	_	_
+3	güzeldi	_	X	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 74
+# text = Oyun başladı .
+1	Oyun	_	NOUN	_	_	0	root	_	_
+2	başladı	_	VERB	_	_	0	root	_	_
+3	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 75
+# text = Biz çalışmaya başladık .
+1	Biz	_	PRON	_	_	0	root	_	_
+2	çalışmaya	_	X	_	_	0	root	_	_
+3	başladık	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 76
+# text = Bahçede çay içtik .
+1	Bahçede	_	NOUN	_	_	0	root	_	_
+2	çay	_	X	_	_	0	root	_	_
+3	içtik	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 77
+# text = Soru çok zordu .
+1	Soru	_	NOUN	_	_	0	root	_	_
+2	çok	_	ADV	_	_	0	root	_	_
+3	zordu	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 78
+# text = Kitap masadan düştü .
+1	Kitap	_	NOUN	_	_	0	root	_	_
+2	masadan	_	X	_	_	0	root	_	_
+3	düştü	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 79
+# text = Yeni araba aldım .
+1	Yeni	_	ADJ	_	_	0	root	_	_
+2	araba	_	X	_	_	0	root	_	_
+3	aldım	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 80
+# text = Ders erken bitti .
+1	Ders	_	X	_	_	0	root	_	_
+2	erken	_	ADV	_	_	0	root	_	_
+3	bitti	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 81
+# text = Zeynep güzel bir resim çizdi .
+1	Zeynep	_	PROPN	_	_	0	root	_	_
+2	güzel	_	ADJ	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	resim	_	NOUN	_	_	0	root	_	_
+5	çizdi	_	X	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 82
+# text = Ahmet yeni kitabını bitirdi .
+1	Ahmet	_	PROPN	_	_	0	root	_	_
+2	yeni	_	X	_	_	0	root	_	_
+3	kitabını	_	NOUN	_	_	0	root	_	_
+4	bitirdi	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 83
+# text = Kütüphanede sessizlik hakimdi .
+1	Kütüphanede	_	X	_	_	0	root	_	_
+2	sessizlik	_	NOUN	_	_	0	root	_	_
+3	hakimdi	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 84
+# text = Öğretmen ödevleri kontrol etti .
+1	Öğretmen	_	X	_	_	0	root	_	_
+2	ödevleri	_	NOUN	_	_	0	root	_	_
+3	kontrol	_	X	_	_	0	root	_	_
+4	etti	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 85
+# text = Sabah erken bir yürüyüş yaptım .
+1	Sabah	_	X	_	_	0	root	_	_
+2	erken	_	ADV	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	yürüyüş	_	NOUN	_	_	0	root	_	_
+5	yaptım	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 86
+# text = Telefonum çalınca dışarı çıktım .
+1	Telefonum	_	NOUN	_	_	0	root	_	_
+2	çalınca	_	X	_	_	0	root	_	_
+3	dışarı	_	X	_	_	0	root	_	_
+4	çıktım	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 87
+# text = Misafirler için sofra hazırlandı .
+1	Misafirler	_	NOUN	_	_	0	root	_	_
+2	için	_	X	_	_	0	root	_	_
+3	sofra	_	NOUN	_	_	0	root	_	_
+4	hazırlandı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 88
+# text = Ali ile Ayşe parka gitti .
+1	Ali	_	PROPN	_	_	0	root	_	_
+2	ile	_	ADP	_	_	0	root	_	_
+3	Ayşe	_	PROPN	_	_	0	root	_	_
+4	parka	_	X	_	_	0	root	_	_
+5	gitti	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 89
+# text = Bu film çok etkileyiciydi .
+1	Bu	_	X	_	_	0	root	_	_
+2	film	_	NOUN	_	_	0	root	_	_
+3	çok	_	ADV	_	_	0	root	_	_
+4	etkileyiciydi	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 90
+# text = Annem bana sıcak bir çorba yaptı .
+1	Annem	_	X	_	_	0	root	_	_
+2	bana	_	X	_	_	0	root	_	_
+3	sıcak	_	X	_	_	0	root	_	_
+4	bir	_	DET	_	_	0	root	_	_
+5	çorba	_	NOUN	_	_	0	root	_	_
+6	yaptı	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 91
+# text = Kardeşim ödevini erken bitirdi .
+1	Kardeşim	_	X	_	_	0	root	_	_
+2	ödevini	_	NOUN	_	_	0	root	_	_
+3	erken	_	ADV	_	_	0	root	_	_
+4	bitirdi	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 92
+# text = Pencereyi rüzgar kapattı .
+1	Pencereyi	_	NOUN	_	_	0	root	_	_
+2	rüzgar	_	NOUN	_	_	0	root	_	_
+3	kapattı	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 93
+# text = Kitapçıdan üç kitap aldık .
+1	Kitapçıdan	_	NOUN	_	_	0	root	_	_
+2	üç	_	X	_	_	0	root	_	_
+3	kitap	_	NOUN	_	_	0	root	_	_
+4	aldık	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 94
+# text = Gece yarısı gökyüzü yıldızlarla doluydu .
+1	Gece	_	X	_	_	0	root	_	_
+2	yarısı	_	X	_	_	0	root	_	_
+3	gökyüzü	_	NOUN	_	_	0	root	_	_
+4	yıldızlarla	_	X	_	_	0	root	_	_
+5	doluydu	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 95
+# text = Sokakta koşan çocuklar çok neşeliydi .
+1	Sokakta	_	X	_	_	0	root	_	_
+2	koşan	_	X	_	_	0	root	_	_
+3	çocuklar	_	NOUN	_	_	0	root	_	_
+4	çok	_	ADV	_	_	0	root	_	_
+5	neşeliydi	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 96
+# text = Kütüphanede ders çalıştık .
+1	Kütüphanede	_	X	_	_	0	root	_	_
+2	ders	_	NOUN	_	_	0	root	_	_
+3	çalıştık	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 97
+# text = Bu soru sınavda çıktı .
+1	Bu	_	X	_	_	0	root	_	_
+2	soru	_	NOUN	_	_	0	root	_	_
+3	sınavda	_	NOUN	_	_	0	root	_	_
+4	çıktı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 98
+# text = Evin önü karla kaplanmıştı .
+1	Evin	_	NOUN	_	_	0	root	_	_
+2	önü	_	NOUN	_	_	0	root	_	_
+3	karla	_	NOUN	_	_	0	root	_	_
+4	kaplanmıştı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 99
+# text = Kış mevsimi çok soğuk geçiyor .
+1	Kış	_	X	_	_	0	root	_	_
+2	mevsimi	_	NOUN	_	_	0	root	_	_
+3	çok	_	ADV	_	_	0	root	_	_
+4	soğuk	_	X	_	_	0	root	_	_
+5	geçiyor	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 100
+# text = Araba buzlu yolda kaydı .
+1	Araba	_	X	_	_	0	root	_	_
+2	buzlu	_	X	_	_	0	root	_	_
+3	yolda	_	NOUN	_	_	0	root	_	_
+4	kaydı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 101
+# text = Kalemliğimi çantamda buldum .
+1	Kalemliğimi	_	NOUN	_	_	0	root	_	_
+2	çantamda	_	NOUN	_	_	0	root	_	_
+3	buldum	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 102
+# text = Köyde geçen tatil çok güzeldi .
+1	Köyde	_	X	_	_	0	root	_	_
+2	geçen	_	X	_	_	0	root	_	_
+3	tatil	_	NOUN	_	_	0	root	_	_
+4	çok	_	ADV	_	_	0	root	_	_
+5	güzeldi	_	X	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 103
+# text = Müzik açılınca herkes dans etti .
+1	Müzik	_	NOUN	_	_	0	root	_	_
+2	açılınca	_	SCONJ	_	_	0	root	_	_
+3	herkes	_	PRON	_	_	0	root	_	_
+4	dans	_	NOUN	_	_	0	root	_	_
+5	etti	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 104
+# text = Ders saatinde telefon kullanılmaz .
+1	Ders	_	X	_	_	0	root	_	_
+2	saatinde	_	X	_	_	0	root	_	_
+3	telefon	_	NOUN	_	_	0	root	_	_
+4	kullanılmaz	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 105
+# text = Cam kendiliğinden kırıldı .
+1	Cam	_	NOUN	_	_	0	root	_	_
+2	kendiliğinden	_	X	_	_	0	root	_	_
+3	kırıldı	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 106
+# text = Saat dokuzu gösteriyordu .
+1	Saat	_	NOUN	_	_	0	root	_	_
+2	dokuzu	_	X	_	_	0	root	_	_
+3	gösteriyordu	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 107
+# text = Bahçede rengarenk çiçekler açtı .
+1	Bahçede	_	X	_	_	0	root	_	_
+2	rengarenk	_	X	_	_	0	root	_	_
+3	çiçekler	_	NOUN	_	_	0	root	_	_
+4	açtı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 108
+# text = Kahve içerken gazete okudum .
+1	Kahve	_	NOUN	_	_	0	root	_	_
+2	içerken	_	X	_	_	0	root	_	_
+3	gazete	_	NOUN	_	_	0	root	_	_
+4	okudum	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 109
+# text = Yol çalışması nedeniyle trafik yoğundu .
+1	Yol	_	NOUN	_	_	0	root	_	_
+2	çalışması	_	NOUN	_	_	0	root	_	_
+3	nedeniyle	_	X	_	_	0	root	_	_
+4	trafik	_	NOUN	_	_	0	root	_	_
+5	yoğundu	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 110
+# text = Evimizin önünde bir kedi yatıyordu .
+1	Evimizin	_	NOUN	_	_	0	root	_	_
+2	önünde	_	X	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	kedi	_	NOUN	_	_	0	root	_	_
+5	yatıyordu	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 111
+# text = Yağmurdan sonra gökkuşağı çıktı .
+1	Yağmurdan	_	NOUN	_	_	0	root	_	_
+2	sonra	_	ADP	_	_	0	root	_	_
+3	gökkuşağı	_	NOUN	_	_	0	root	_	_
+4	çıktı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 112
+# text = Çocuklar mutfakta kurabiye yaptı .
+1	Çocuklar	_	X	_	_	0	root	_	_
+2	mutfakta	_	NOUN	_	_	0	root	_	_
+3	kurabiye	_	NOUN	_	_	0	root	_	_
+4	yaptı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 113
+# text = Sınavdan yüksek not aldım .
+1	Sınavdan	_	X	_	_	0	root	_	_
+2	yüksek	_	X	_	_	0	root	_	_
+3	not	_	NOUN	_	_	0	root	_	_
+4	aldım	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 114
+# text = Parka gidip yürüyüş yaptık .
+1	Parka	_	NOUN	_	_	0	root	_	_
+2	gidip	_	X	_	_	0	root	_	_
+3	yürüyüş	_	NOUN	_	_	0	root	_	_
+4	yaptık	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 115
+# text = Karpuz çok tatlıydı .
+1	Karpuz	_	NOUN	_	_	0	root	_	_
+2	çok	_	ADV	_	_	0	root	_	_
+3	tatlıydı	_	X	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 116
+# text = Televizyonda ilginç bir haber vardı .
+1	Televizyonda	_	NOUN	_	_	0	root	_	_
+2	ilginç	_	X	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	haber	_	NOUN	_	_	0	root	_	_
+5	vardı	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 117
+# text = Kitap çok sürükleyiciydi .
+1	Kitap	_	X	_	_	0	root	_	_
+2	çok	_	ADV	_	_	0	root	_	_
+3	sürükleyiciydi	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+# sent_id = 118
+# text = Sabahları koşuya çıkıyorum .
+1	Sabahları	_	X	_	_	0	root	_	_
+2	koşuya	_	NOUN	_	_	0	root	_	_
+3	çıkıyorum	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 119
+# text = Kardeşimle oyun oynadık .
+1	Kardeşimle	_	X	_	_	0	root	_	_
+2	oyun	_	NOUN	_	_	0	root	_	_
+3	oynadık	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 120
+# text = Fırında ekmek pişiyordu .
+1	Fırında	_	NOUN	_	_	0	root	_	_
+2	ekmek	_	NOUN	_	_	0	root	_	_
+3	pişiyordu	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 121
+# text = Sabahları erken kalkmak çok zordur .
+1	Sabahları	_	NOUN	_	_	0	root	_	_
+2	erken	_	ADV	_	_	0	root	_	_
+3	kalkmak	_	VERB	_	_	0	root	_	_
+4	çok	_	ADV	_	_	0	root	_	_
+5	zordur	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 122
+# text = Kitaplar raflara düzenli bir şekilde yerleştirildi .
+1	Kitaplar	_	NOUN	_	_	0	root	_	_
+2	raflara	_	NOUN	_	_	0	root	_	_
+3	düzenli	_	ADJ	_	_	0	root	_	_
+4	bir	_	DET	_	_	0	root	_	_
+5	şekilde	_	NOUN	_	_	0	root	_	_
+6	yerleştirildi	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 123
+# text = Bahçede oynayan çocuklar çok mutluydu .
+1	Bahçede	_	NOUN	_	_	0	root	_	_
+2	oynayan	_	ADJ	_	_	0	root	_	_
+3	çocuklar	_	NOUN	_	_	0	root	_	_
+4	çok	_	ADV	_	_	0	root	_	_
+5	mutluydu	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 124
+# text = Kütüphane öğrenciler için sessiz bir mekandır .
+1	Kütüphane	_	NOUN	_	_	0	root	_	_
+2	öğrenciler	_	NOUN	_	_	0	root	_	_
+3	için	_	ADP	_	_	0	root	_	_
+4	sessiz	_	ADJ	_	_	0	root	_	_
+5	bir	_	DET	_	_	0	root	_	_
+6	mekandır	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 125
+# text = Annem bana lezzetli bir tatlı hazırladı .
+1	Annem	_	NOUN	_	_	0	root	_	_
+2	bana	_	PRON	_	_	0	root	_	_
+3	lezzetli	_	ADJ	_	_	0	root	_	_
+4	bir	_	DET	_	_	0	root	_	_
+5	tatlı	_	NOUN	_	_	0	root	_	_
+6	hazırladı	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 126
+# text = Sokakta koşan adam elindeki çantayı düşürdü .
+1	Sokakta	_	NOUN	_	_	0	root	_	_
+2	koşan	_	ADJ	_	_	0	root	_	_
+3	adam	_	NOUN	_	_	0	root	_	_
+4	elindeki	_	ADJ	_	_	0	root	_	_
+5	çantayı	_	NOUN	_	_	0	root	_	_
+6	düşürdü	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 127
+# text = Film bittiğinde herkes salondan çıktı .
+1	Film	_	NOUN	_	_	0	root	_	_
+2	bittiğinde	_	SCONJ	_	_	0	root	_	_
+3	herkes	_	PRON	_	_	0	root	_	_
+4	salondan	_	NOUN	_	_	0	root	_	_
+5	çıktı	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 128
+# text = Kalabalık metro istasyonunda insanlar aceleyle yürüyordu .
+1	Kalabalık	_	ADJ	_	_	0	root	_	_
+2	metro	_	NOUN	_	_	0	root	_	_
+3	istasyonunda	_	NOUN	_	_	0	root	_	_
+4	insanlar	_	NOUN	_	_	0	root	_	_
+5	aceleyle	_	ADV	_	_	0	root	_	_
+6	yürüyordu	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 129
+# text = Dün akşam misafirliğe gittik .
+1	Dün	_	NOUN	_	_	0	root	_	_
+2	akşam	_	NOUN	_	_	0	root	_	_
+3	misafirliğe	_	NOUN	_	_	0	root	_	_
+4	gittik	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 130
+# text = Yeni telefonumu çok beğendim .
+1	Yeni	_	ADJ	_	_	0	root	_	_
+2	telefonumu	_	NOUN	_	_	0	root	_	_
+3	çok	_	ADV	_	_	0	root	_	_
+4	beğendim	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 131
+# text = Kardeşim okuldan geldiğinde çok yorgundu .
+1	Kardeşim	_	NOUN	_	_	0	root	_	_
+2	okuldan	_	NOUN	_	_	0	root	_	_
+3	geldiğinde	_	SCONJ	_	_	0	root	_	_
+4	çok	_	ADV	_	_	0	root	_	_
+5	yorgundu	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 132
+# text = Kitapçı indirim yapmış .
+1	Kitapçı	_	NOUN	_	_	0	root	_	_
+2	indirim	_	NOUN	_	_	0	root	_	_
+3	yapmış	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 133
+# text = Babaannem bize hikaye anlattı .
+1	Babaannem	_	NOUN	_	_	0	root	_	_
+2	bize	_	PRON	_	_	0	root	_	_
+3	hikaye	_	NOUN	_	_	0	root	_	_
+4	anlattı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 134
+# text = Kütüphanede araştırma yapan öğrenciler sessizdi .
+1	Kütüphanede	_	X	_	_	0	root	_	_
+2	araştırma	_	NOUN	_	_	0	root	_	_
+3	yapan	_	ADJ	_	_	0	root	_	_
+4	öğrenciler	_	NOUN	_	_	0	root	_	_
+5	sessizdi	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 135
+# text = Yolda kaybolan köpeği bulduk .
+1	Yolda	_	X	_	_	0	root	_	_
+2	kaybolan	_	ADJ	_	_	0	root	_	_
+3	köpeği	_	NOUN	_	_	0	root	_	_
+4	bulduk	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 136
+# text = Öğretmen öğrencilere yeni konuyu anlattı .
+1	Öğretmen	_	X	_	_	0	root	_	_
+2	öğrencilere	_	NOUN	_	_	0	root	_	_
+3	yeni	_	X	_	_	0	root	_	_
+4	konuyu	_	NOUN	_	_	0	root	_	_
+5	anlattı	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 137
+# text = Çalışma odasındaki lamba yanmıyordu .
+1	Çalışma	_	NOUN	_	_	0	root	_	_
+2	odasındaki	_	ADJ	_	_	0	root	_	_
+3	lamba	_	NOUN	_	_	0	root	_	_
+4	yanmıyordu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 138
+# text = Tatil bittiği için herkes üzgündü .
+1	Tatil	_	NOUN	_	_	0	root	_	_
+2	bittiği	_	SCONJ	_	_	0	root	_	_
+3	için	_	ADP	_	_	0	root	_	_
+4	herkes	_	PRON	_	_	0	root	_	_
+5	üzgündü	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 139
+# text = Bugün hava güneşli ve ılık .
+1	Bugün	_	X	_	_	0	root	_	_
+2	hava	_	NOUN	_	_	0	root	_	_
+3	güneşli	_	ADJ	_	_	0	root	_	_
+4	ve	_	CONJ	_	_	0	root	_	_
+5	ılık	_	ADJ	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 140
+# text = Bakkaldan süt ve ekmek aldım .
+1	Bakkaldan	_	NOUN	_	_	0	root	_	_
+2	süt	_	NOUN	_	_	0	root	_	_
+3	ve	_	CONJ	_	_	0	root	_	_
+4	ekmek	_	NOUN	_	_	0	root	_	_
+5	aldım	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 141
+# text = Kütüphane her gün saat dokuzda açılıyor .
+1	Kütüphane	_	NOUN	_	_	0	root	_	_
+2	her	_	DET	_	_	0	root	_	_
+3	gün	_	NOUN	_	_	0	root	_	_
+4	saat	_	NOUN	_	_	0	root	_	_
+5	dokuzda	_	NOUN	_	_	0	root	_	_
+6	açılıyor	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 142
+# text = Trafik ışıkları bozulmuştu .
+1	Trafik	_	NOUN	_	_	0	root	_	_
+2	ışıkları	_	NOUN	_	_	0	root	_	_
+3	bozulmuştu	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 143
+# text = Hastane önünde bir kalabalık toplanmıştı .
+1	Hastane	_	NOUN	_	_	0	root	_	_
+2	önünde	_	ADP	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	kalabalık	_	NOUN	_	_	0	root	_	_
+5	toplanmıştı	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 144
+# text = Ders sırasında telefon kullanmamamız gerekiyor .
+1	Ders	_	X	_	_	0	root	_	_
+2	sırasında	_	ADP	_	_	0	root	_	_
+3	telefon	_	X	_	_	0	root	_	_
+4	kullanmamamız	_	VERB	_	_	0	root	_	_
+5	gerekiyor	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 145
+# text = Köydeki evimiz çok huzurlu bir yerdi .
+1	Köydeki	_	ADJ	_	_	0	root	_	_
+2	evimiz	_	NOUN	_	_	0	root	_	_
+3	çok	_	ADV	_	_	0	root	_	_
+4	huzurlu	_	ADJ	_	_	0	root	_	_
+5	bir	_	DET	_	_	0	root	_	_
+6	yerdi	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 146
+# text = Toplantı yarın saat on buçukta .
+1	Toplantı	_	NOUN	_	_	0	root	_	_
+2	yarın	_	NOUN	_	_	0	root	_	_
+3	saat	_	NOUN	_	_	0	root	_	_
+4	on	_	NUM	_	_	0	root	_	_
+5	buçukta	_	NOUN	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 147
+# text = Çocuklar parkta oyuncaklarla oynuyordu .
+1	Çocuklar	_	X	_	_	0	root	_	_
+2	parkta	_	NOUN	_	_	0	root	_	_
+3	oyuncaklarla	_	NOUN	_	_	0	root	_	_
+4	oynuyordu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 148
+# text = Bilgisayar kendiliğinden yeniden başladı .
+1	Bilgisayar	_	NOUN	_	_	0	root	_	_
+2	kendiliğinden	_	ADV	_	_	0	root	_	_
+3	yeniden	_	ADV	_	_	0	root	_	_
+4	başladı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 149
+# text = Odamı bugün temizlemeyi planlıyorum .
+1	Odamı	_	NOUN	_	_	0	root	_	_
+2	bugün	_	X	_	_	0	root	_	_
+3	temizlemeyi	_	VERB	_	_	0	root	_	_
+4	planlıyorum	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 150
+# text = Uçak zamanında kalktı .
+1	Uçak	_	NOUN	_	_	0	root	_	_
+2	zamanında	_	ADV	_	_	0	root	_	_
+3	kalktı	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 151
+# text = Havaalanında uzun bir kuyruk vardı .
+1	Havaalanında	_	NOUN	_	_	0	root	_	_
+2	uzun	_	ADJ	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	kuyruk	_	NOUN	_	_	0	root	_	_
+5	vardı	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 152
+# text = Kitaplıkta yeni ansiklopediler vardı .
+1	Kitaplıkta	_	NOUN	_	_	0	root	_	_
+2	yeni	_	X	_	_	0	root	_	_
+3	ansiklopediler	_	NOUN	_	_	0	root	_	_
+4	vardı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 153
+# text = Bu sabah spor yaptım .
+1	Bu	_	X	_	_	0	root	_	_
+2	sabah	_	X	_	_	0	root	_	_
+3	spor	_	NOUN	_	_	0	root	_	_
+4	yaptım	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 154
+# text = Çocuklar bahçeye çiçek ekti .
+1	Çocuklar	_	X	_	_	0	root	_	_
+2	bahçeye	_	X	_	_	0	root	_	_
+3	çiçek	_	NOUN	_	_	0	root	_	_
+4	ekti	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 155
+# text = Evcil hayvanlar bakım ister .
+1	Evcil	_	ADJ	_	_	0	root	_	_
+2	hayvanlar	_	NOUN	_	_	0	root	_	_
+3	bakım	_	NOUN	_	_	0	root	_	_
+4	ister	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 156
+# text = Pencereden güneş içeri sızıyordu .
+1	Pencereden	_	X	_	_	0	root	_	_
+2	güneş	_	NOUN	_	_	0	root	_	_
+3	içeri	_	X	_	_	0	root	_	_
+4	sızıyordu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 157
+# text = Konferans salonu çok kalabalıktı .
+1	Konferans	_	NOUN	_	_	0	root	_	_
+2	salonu	_	NOUN	_	_	0	root	_	_
+3	çok	_	ADV	_	_	0	root	_	_
+4	kalabalıktı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 158
+# text = Dışarıda kuşlar ötüyordu .
+1	Dışarıda	_	ADV	_	_	0	root	_	_
+2	kuşlar	_	NOUN	_	_	0	root	_	_
+3	ötüyordu	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 159
+# text = Marketten meyve ve sebze aldık .
+1	Marketten	_	NOUN	_	_	0	root	_	_
+2	meyve	_	NOUN	_	_	0	root	_	_
+3	ve	_	CONJ	_	_	0	root	_	_
+4	sebze	_	NOUN	_	_	0	root	_	_
+5	aldık	_	X	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 160
+# text = Sınava iyi çalışmalısın .
+1	Sınava	_	NOUN	_	_	0	root	_	_
+2	iyi	_	ADJ	_	_	0	root	_	_
+3	çalışmalısın	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 161
+# text = Kardeşim dışarıda arkadaşlarıyla oynuyordu .
+1	Kardeşim	_	NOUN	_	_	0	root	_	_
+2	dışarıda	_	ADV	_	_	0	root	_	_
+3	arkadaşlarıyla	_	NOUN	_	_	0	root	_	_
+4	oynuyordu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 162
+# text = Sabah uyanır uyanmaz pencereleri açtım .
+1	Sabah	_	NOUN	_	_	0	root	_	_
+2	uyanır	_	VERB	_	_	0	root	_	_
+3	uyanmaz	_	ADV	_	_	0	root	_	_
+4	pencereleri	_	NOUN	_	_	0	root	_	_
+5	açtım	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 163
+# text = Bugün okulda yeni bir konu işlendi .
+1	Bugün	_	NOUN	_	_	0	root	_	_
+2	okulda	_	NOUN	_	_	0	root	_	_
+3	yeni	_	ADJ	_	_	0	root	_	_
+4	bir	_	DET	_	_	0	root	_	_
+5	konu	_	NOUN	_	_	0	root	_	_
+6	işlendi	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 164
+# text = Öğrenciler ödevlerini eksiksiz yaptılar .
+1	Öğrenciler	_	NOUN	_	_	0	root	_	_
+2	ödevlerini	_	NOUN	_	_	0	root	_	_
+3	eksiksiz	_	ADJ	_	_	0	root	_	_
+4	yaptılar	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 165
+# text = Ayşe bize çikolatalı pasta yaptı .
+1	Ayşe	_	PROPN	_	_	0	root	_	_
+2	bize	_	PRON	_	_	0	root	_	_
+3	çikolatalı	_	ADJ	_	_	0	root	_	_
+4	pasta	_	NOUN	_	_	0	root	_	_
+5	yaptı	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 166
+# text = Parka gittiğimizde salıncaklar boştu .
+1	Parka	_	NOUN	_	_	0	root	_	_
+2	gittiğimizde	_	SCONJ	_	_	0	root	_	_
+3	salıncaklar	_	NOUN	_	_	0	root	_	_
+4	boştu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 167
+# text = Televizyon programı çok sürükleyiciydi .
+1	Televizyon	_	NOUN	_	_	0	root	_	_
+2	programı	_	NOUN	_	_	0	root	_	_
+3	çok	_	X	_	_	0	root	_	_
+4	sürükleyiciydi	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 168
+# text = Çantamı odamda unuttum .
+1	Çantamı	_	NOUN	_	_	0	root	_	_
+2	odamda	_	NOUN	_	_	0	root	_	_
+3	unuttum	_	VERB	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 169
+# text = Sabahları sıcak bir çay içerim .
+1	Sabahları	_	NOUN	_	_	0	root	_	_
+2	sıcak	_	ADJ	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	çay	_	NOUN	_	_	0	root	_	_
+5	içerim	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 170
+# text = Babam bize eski fotoğrafları gösterdi .
+1	Babam	_	NOUN	_	_	0	root	_	_
+2	bize	_	PRON	_	_	0	root	_	_
+3	eski	_	ADJ	_	_	0	root	_	_
+4	fotoğrafları	_	NOUN	_	_	0	root	_	_
+5	gösterdi	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 171
+# text = Sokakta oynayan çocukların sesleri duyuluyordu .
+1	Sokakta	_	X	_	_	0	root	_	_
+2	oynayan	_	ADJ	_	_	0	root	_	_
+3	çocukların	_	NOUN	_	_	0	root	_	_
+4	sesleri	_	NOUN	_	_	0	root	_	_
+5	duyuluyordu	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 172
+# text = Okuldan sonra kütüphaneye uğradım .
+1	Okuldan	_	NOUN	_	_	0	root	_	_
+2	sonra	_	ADP	_	_	0	root	_	_
+3	kütüphaneye	_	NOUN	_	_	0	root	_	_
+4	uğradım	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 173
+# text = Kış gelince hava erken kararıyor .
+1	Kış	_	NOUN	_	_	0	root	_	_
+2	gelince	_	SCONJ	_	_	0	root	_	_
+3	hava	_	NOUN	_	_	0	root	_	_
+4	erken	_	X	_	_	0	root	_	_
+5	kararıyor	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 174
+# text = Balkonda otururken kitap okumayı severim .
+1	Balkonda	_	NOUN	_	_	0	root	_	_
+2	otururken	_	SCONJ	_	_	0	root	_	_
+3	kitap	_	NOUN	_	_	0	root	_	_
+4	okumayı	_	VERB	_	_	0	root	_	_
+5	severim	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 175
+# text = Yeni defterimi çizim için kullandım .
+1	Yeni	_	X	_	_	0	root	_	_
+2	defterimi	_	NOUN	_	_	0	root	_	_
+3	çizim	_	NOUN	_	_	0	root	_	_
+4	için	_	ADP	_	_	0	root	_	_
+5	kullandım	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 176
+# text = Yolda yürürken bir kedi bana yaklaştı .
+1	Yolda	_	NOUN	_	_	0	root	_	_
+2	yürürken	_	SCONJ	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	kedi	_	NOUN	_	_	0	root	_	_
+5	bana	_	PRON	_	_	0	root	_	_
+6	yaklaştı	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 177
+# text = Çok yoğun bir gün geçirdim .
+1	Çok	_	X	_	_	0	root	_	_
+2	yoğun	_	ADJ	_	_	0	root	_	_
+3	bir	_	DET	_	_	0	root	_	_
+4	gün	_	NOUN	_	_	0	root	_	_
+5	geçirdim	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 178
+# text = Odamda müzik dinleyerek dinlendim .
+1	Odamda	_	NOUN	_	_	0	root	_	_
+2	müzik	_	NOUN	_	_	0	root	_	_
+3	dinleyerek	_	ADV	_	_	0	root	_	_
+4	dinlendim	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 179
+# text = Sınavdan sonra arkadaşlarımızla kutlama yaptık .
+1	Sınavdan	_	NOUN	_	_	0	root	_	_
+2	sonra	_	ADP	_	_	0	root	_	_
+3	arkadaşlarımızla	_	NOUN	_	_	0	root	_	_
+4	kutlama	_	NOUN	_	_	0	root	_	_
+5	yaptık	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 180
+# text = Kütüphane hafta sonları kapalıdır .
+1	Kütüphane	_	X	_	_	0	root	_	_
+2	hafta	_	NOUN	_	_	0	root	_	_
+3	sonları	_	NOUN	_	_	0	root	_	_
+4	kapalıdır	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 181
+# text = Sabah gazetesini kahve eşliğinde okudum .
+1	Sabah	_	NOUN	_	_	0	root	_	_
+2	gazetesini	_	NOUN	_	_	0	root	_	_
+3	kahve	_	NOUN	_	_	0	root	_	_
+4	eşliğinde	_	ADP	_	_	0	root	_	_
+5	okudum	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 182
+# text = Kardeşim bugün sınıf birincisi oldu .
+1	Kardeşim	_	NOUN	_	_	0	root	_	_
+2	bugün	_	X	_	_	0	root	_	_
+3	sınıf	_	NOUN	_	_	0	root	_	_
+4	birincisi	_	NOUN	_	_	0	root	_	_
+5	oldu	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 183
+# text = Piknik alanı çok kalabalıktı .
+1	Piknik	_	NOUN	_	_	0	root	_	_
+2	alanı	_	NOUN	_	_	0	root	_	_
+3	çok	_	X	_	_	0	root	_	_
+4	kalabalıktı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 184
+# text = Yemeğin tadı biraz tuzsuzdu .
+1	Yemeğin	_	NOUN	_	_	0	root	_	_
+2	tadı	_	NOUN	_	_	0	root	_	_
+3	biraz	_	X	_	_	0	root	_	_
+4	tuzsuzdu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 185
+# text = Sokakta bir müzisyen şarkı söylüyordu .
+1	Sokakta	_	X	_	_	0	root	_	_
+2	bir	_	DET	_	_	0	root	_	_
+3	müzisyen	_	NOUN	_	_	0	root	_	_
+4	şarkı	_	NOUN	_	_	0	root	_	_
+5	söylüyordu	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 186
+# text = Kütüphanede raflar kitaplarla doluydu .
+1	Kütüphanede	_	X	_	_	0	root	_	_
+2	raflar	_	NOUN	_	_	0	root	_	_
+3	kitaplarla	_	NOUN	_	_	0	root	_	_
+4	doluydu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 187
+# text = Hafta sonu dağa çıkacağız .
+1	Hafta	_	NOUN	_	_	0	root	_	_
+2	sonu	_	NOUN	_	_	0	root	_	_
+3	dağa	_	NOUN	_	_	0	root	_	_
+4	çıkacağız	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 188
+# text = Yolculuk boyunca manzarayı izledik .
+1	Yolculuk	_	NOUN	_	_	0	root	_	_
+2	boyunca	_	ADP	_	_	0	root	_	_
+3	manzarayı	_	NOUN	_	_	0	root	_	_
+4	izledik	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 189
+# text = Bahçeye domates ve biber ektik .
+1	Bahçeye	_	NOUN	_	_	0	root	_	_
+2	domates	_	NOUN	_	_	0	root	_	_
+3	ve	_	X	_	_	0	root	_	_
+4	biber	_	NOUN	_	_	0	root	_	_
+5	ektik	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 190
+# text = Evde film izleyip patlamış mısır yedik .
+1	Evde	_	NOUN	_	_	0	root	_	_
+2	film	_	NOUN	_	_	0	root	_	_
+3	izleyip	_	VERB	_	_	0	root	_	_
+4	patlamış	_	ADJ	_	_	0	root	_	_
+5	mısır	_	NOUN	_	_	0	root	_	_
+6	yedik	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 191
+# text = Yeni aldığım gömlek çok hoşuma gitti .
+1	Yeni	_	X	_	_	0	root	_	_
+2	aldığım	_	ADJ	_	_	0	root	_	_
+3	gömlek	_	NOUN	_	_	0	root	_	_
+4	çok	_	X	_	_	0	root	_	_
+5	hoşuma	_	NOUN	_	_	0	root	_	_
+6	gitti	_	VERB	_	_	0	root	_	_
+7	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 192
+# text = Sabah serinliği insanı uyandırır .
+1	Sabah	_	NOUN	_	_	0	root	_	_
+2	serinliği	_	NOUN	_	_	0	root	_	_
+3	insanı	_	NOUN	_	_	0	root	_	_
+4	uyandırır	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 193
+# text = Kitapçıda indirimli kitaplar bulduk .
+1	Kitapçıda	_	NOUN	_	_	0	root	_	_
+2	indirimli	_	ADJ	_	_	0	root	_	_
+3	kitaplar	_	X	_	_	0	root	_	_
+4	bulduk	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 194
+# text = Kalemim masanın altına düştü .
+1	Kalemim	_	NOUN	_	_	0	root	_	_
+2	masanın	_	NOUN	_	_	0	root	_	_
+3	altına	_	ADP	_	_	0	root	_	_
+4	düştü	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 195
+# text = Köpek bizi görünce havladı .
+1	Köpek	_	X	_	_	0	root	_	_
+2	bizi	_	X	_	_	0	root	_	_
+3	görünce	_	SCONJ	_	_	0	root	_	_
+4	havladı	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 196
+# text = Yağmur başlayınca şemsiyemi açtım .
+1	Yağmur	_	X	_	_	0	root	_	_
+2	başlayınca	_	SCONJ	_	_	0	root	_	_
+3	şemsiyemi	_	NOUN	_	_	0	root	_	_
+4	açtım	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 197
+# text = Sınıf bugün çok sessizdi .
+1	Sınıf	_	NOUN	_	_	0	root	_	_
+2	bugün	_	X	_	_	0	root	_	_
+3	çok	_	X	_	_	0	root	_	_
+4	sessizdi	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 198
+# text = Toplantıdan önce hazırlıklarımızı tamamladık .
+1	Toplantıdan	_	NOUN	_	_	0	root	_	_
+2	önce	_	X	_	_	0	root	_	_
+3	hazırlıklarımızı	_	NOUN	_	_	0	root	_	_
+4	tamamladık	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 199
+# text = Mutfakta bir şey yanıyordu .
+1	Mutfakta	_	NOUN	_	_	0	root	_	_
+2	bir	_	DET	_	_	0	root	_	_
+3	şey	_	X	_	_	0	root	_	_
+4	yanıyordu	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	0	root	_	_
+
+# sent_id = 200
+# text = Yaz tatilinde denize girmeyi özledim .
+1	Yaz	_	NOUN	_	_	0	root	_	_
+2	tatilinde	_	NOUN	_	_	0	root	_	_
+3	denize	_	NOUN	_	_	0	root	_	_
+4	girmeyi	_	VERB	_	_	0	root	_	_
+5	özledim	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	0	root	_	_
+
+
+
+
+
+
+
+
+
+
