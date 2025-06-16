@@ -120,8 +120,6 @@ POS tagging (sözcük türü etiketleme), metin içerisindeki her kelimenin fiil
 
  
 
-```bash
-
 # 1. Reponun klonlanması
 
 git clone https://github.com/kullanici_adiniz/pos-tagger-tr.git
@@ -144,13 +142,13 @@ python pos_tagger_gui_app.py
 
 İsim​Görevler
 
-Süleyman Asım Gelişgen​Arayüz geliştirme, GitHub yayını
+Süleyman Asım Gelişgen​         Arayüz geliştirme, GitHub yayını
 
-Hasan Umut Kocatepe​Veri seti hazırlığı (.conllu dosyası)
+Hasan Umut Kocatepe​            Veri seti hazırlığı (.conllu dosyası)
 
-Ahmet Sefa Ünal​Video sunumu, kaynak araştırması
+Ahmet Sefa Ünal​                Video sunumu, kaynak araştırması
 
-Talha Korkmaz​Temel kodlama (işleme, etiketleme, CSV kayıt)
+Talha Korkmaz​                  Temel kodlama (işleme, etiketleme, CSV kayıt)
 
  
 
@@ -170,6 +168,6 @@ Universal POS Tags
 
 Python Tkinter Docs
 
-![image](https://github.com/user-attachments/assets/3f5cf06d-da4c-4a4c-acd6-6763fccff228)
-![image](https://github.com/user-attachments/assets/a1582169-d5fb-4960-9a2e-0febca03614e)
+[image](https://github.com/user-attachments/assets/3f5cf06d-da4c-4a4c-acd6-6763fccff228)
+[image](https://github.com/user-attachments/assets/a1582169-d5fb-4960-9a2e-0febca03614e)
 
